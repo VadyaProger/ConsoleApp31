@@ -10,6 +10,8 @@ namespace ConsoleApp31
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Изменения в Git");
+            
         }
     }
 }
